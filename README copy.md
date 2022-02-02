@@ -2,7 +2,7 @@
 
 ## Languages
 ![](https://img.shields.io/static/v1?style=flat-square&label=&message=Python&labelColor=e6e6fa&color=3776AB&logoColor=3776AB&logo=python)
-![](https://img.shields.io/static/v1?style=flat-square&label=&message=Cpp++&labelColor=e6e6fa&color=00599C&logoColor=00599C&logo=Cplusplus)
+![](https://img.shields.io/static/v1?style=flat-square&label=&message=C%2B%2B&labelColor=e6e6fa&color=00599C&logoColor=00599C&logo=Cplusplus)
 
 
 
@@ -29,6 +29,7 @@
 ![](https://img.shields.io/static/v1?style=flat-square&label=&message=PyTorch&labelColor=e6e6fa&color=EE4C2C&logoColor=EE4C2C&logo=pytorch)
 ![](https://img.shields.io/static/v1?style=flat-square&label=&message=TensorFlow&labelColor=e6e6fa&color=FF6F00&logoColor=FF6F00&logo=tensorflow)
 ![](https://img.shields.io/static/v1?style=flat-square&label=&message=scikit-learn&labelColor=e6e6fa&color=F7931E&logoColor=F7931E&logo=scikit-learn)
+![](https://img.shields.io/static/v1?style=flat-square&label=&message=scikit-learn&labelColor=F7931E&color=F7931E&logoColor=fff&logo=scikit-learn)
 ![](https://img.shields.io/static/v1?style=flat-square&label=&message=keras&labelColor=e6e6fa&color=D00000&logoColor=D00000&logo=keras)
 
 ## DevOps & Tools
