@@ -2,7 +2,7 @@
 
 <!-- [![Shields.io]](https://shields.io/) -->
 [![Youtube]](https://www.youtube.com/channel/UCgB15QF9MMHRYMIIn2hSdyA)
-[![aitech]](https://www.notion.so/AI-Tech-e8ad88a82966449f8415c457b42da2cf)
+[![aitech]](https://season-country-f1f.notion.site/AI-Tech-e8ad88a82966449f8415c457b42da2cf)
 
 [resume]: https://img.shields.io/static/v1?style=for-the-badge&color=000000&logoColor=ffffff&label=&message=Resume&logo=notion&#000000
 [youtube]: https://img.shields.io/static/v1?style=for-the-badge&color=red&logoColor=ffffff&label=&message=Youtube&logo=youtube&#000000
@@ -17,9 +17,8 @@
 [github stats]: https://github-readme-stats.vercel.app/api?username=hursuk1&title_color=5f4b8b&text_color=f0eee9&icon_color=00abc0&bg_color=212121&hide_border=true&hide_title=true&theme=&show_icons=true&include_all_commits=true&count_private=true&line_height=24
 [top languages]: https://github-readme-stats.vercel.app/api/top-langs?username=hursuk1&title_color=5f4b8b&text_color=f0eee9&icon_color=00abc0&bg_color=212121&hide_border=true&hide_title=true&layout=compact&langs_count=8&hide=html,css,tex
 
-[![solved]](https://solved.ac/class)
+[![Solved.ac](http://mazassumnida.wtf/api/v2/generate_badge?boj=hursuk1)](https://solved.ac/hursuk1)
 
-[solved]: http://mazassumnida.wtf/api/v1/generate_badge?boj=hursuk1
 
 ## Languages
 
