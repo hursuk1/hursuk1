@@ -17,6 +17,7 @@
 [github stats]: https://github-readme-stats.vercel.app/api?username=hursuk1&title_color=5f4b8b&text_color=f0eee9&icon_color=00abc0&bg_color=212121&hide_border=true&hide_title=true&theme=&show_icons=true&include_all_commits=true&count_private=true&line_height=24
 [top languages]: https://github-readme-stats.vercel.app/api/top-langs?username=hursuk1&title_color=5f4b8b&text_color=f0eee9&icon_color=00abc0&bg_color=212121&hide_border=true&hide_title=true&layout=compact&langs_count=8&hide=html,css,tex
 
+## solved.ac
 [![Solved.ac](http://mazassumnida.wtf/api/v2/generate_badge?boj=hursuk1)](https://solved.ac/hursuk1)
 
 
