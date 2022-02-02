@@ -26,7 +26,8 @@
 
 ![](https://img.shields.io/static/v1?style=flat-square&label=&message=Docker&labelColor=e6e6fa&color=2496ED&logoColor=2496ED&logo=docker)
 
-
+![](https://img.shields.io/static/v1?style=flat-square&label=&message=Linux&labelColor=e6e6fa&color=FCC624&logoColor=FCC624&logo=linux)
+![](https://img.shields.io/static/v1?style=flat-square&label=&message=Ubuntu&labelColor=e6e6fa&color=E95420&logoColor=E95420&logo=ubuntu)
 
 <!--
 **hursuk1/hursuk1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
